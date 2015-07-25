@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".peoplefamous">
+
+    <item android:title="about Me:"
+        android:id="@+id/aboutme"/>
+    <item android:title="about app:"
+        android:id="@+id/aboutapp"/>
+   <item android:title="people:"
+       android:showAsAction="always">
+       <menu>
+           <item
+               android:title="alberteintein"
+               android:id="@+id/alb"/>
+           <item
+               android:title="alfrednobel"
+               android:id="@+id/alf"/>
+           <item
+               android:title="aungsanauukyi"
+               android:id="@+id/aung"/>
+           <item
+               android:title="charliechaplin"
+               android:id="@+id/charli"/>
+       </menu>
+   </item>
+
+
+</menu>

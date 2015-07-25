@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yasaman.forouzesh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_app">about app:</string>
+    <string name="about_Me">about Me:</string>
+
+</resources>
